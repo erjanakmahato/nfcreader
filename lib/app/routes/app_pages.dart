@@ -1,8 +1,6 @@
 import 'package:get/get.dart';
-
 import 'package:nfcdetector/app/modules/home/bindings/home_binding.dart';
 import 'package:nfcdetector/app/modules/home/views/home_view.dart';
-
 part 'app_routes.dart';
 
 class AppPages {
